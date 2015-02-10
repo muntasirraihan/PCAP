@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings
+db/*/lib/*.jar
+db/*/lib/*.zip
+*.iml
+.idea
+
