@@ -1,4 +1,4 @@
-LatestTimestampedYCSB
+PCAP
 =====================
 
 Codebase Overview
@@ -12,7 +12,7 @@ There are 3 repos:
 
     YCSB's Riak client
 
-  3. https://github.com/muntasirraihan/LatestTimestampedYCSB
+  3. https://github.com/muntasirraihan/PCAP
 
     Scripts for control algorithm and analytics code
 
@@ -31,7 +31,7 @@ Configurations:
 
     $RIAK/riakycsb
 
-    $RIAK/LatestTimestampedYCSB
+    $RIAK/PCAP
 
   Also, replace "N" in all commands below with the number of nodes in your
   cluster
