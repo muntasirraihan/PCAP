@@ -84,7 +84,7 @@ Set up cluster:
 
 Run experiments:
 -------------------
-1. Go to LatestTimestampedYCSB/Scripts
+1. Go to PCAP/Scripts
 2. Change the field 'hosts' in ycsb_run_riak.sh if necessary (if you have less or more nodes)
 3. python control_riak.py N sla pa/pc
 
@@ -94,4 +94,5 @@ Run experiments:
 
 Contact:
 -------------------
+Muntasir - muntasir.raihan@gmail.com
 son - sonnbc@gmail.com
